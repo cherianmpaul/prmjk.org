@@ -1,0 +1,6 @@
+img { behavior:url(iepngfix.htc); }
+#footer { background:url(../images/bg_footer.gif) repeat-x #809f47; width:100%; height:100px; float:left; font-size:14px; color:#f1eee8; margin:0 0 -5px 0; padding:25px 0 0 0; }
+#container { width:100%; height:auto; float:left; margin:0 0 -6px 0; padding:0px; }
+#logo { width:255px; height:35px; float:left; margin:0px; padding:53px 20px 37px 33px; }
+#navigation ul li a { display:block; float:left; line-height:40px; color:#f1eee8; margin:0px; padding:0px 24px; }
+#showcase { width:100%; height:auto; float:left; margin:0 0 -20px 0; padding:0 0 30px 0; }
